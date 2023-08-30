@@ -13,7 +13,7 @@ namespace cop3530 {
             // key
             // value
             // left child
-            // right child
+            
             Key key;
             T value;
             node* left;
