@@ -12,7 +12,7 @@ namespace cop3530 {
         struct node {
             // key
             // value
-            // left child
+            
             
             Key key;
             T value;
